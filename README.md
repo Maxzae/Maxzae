@@ -1,0 +1,5 @@
+- Weapon Modeller (game)
+- Video Editor
+- Level designer
+- Voice editor
+- Game Designer
